@@ -1,0 +1,4081 @@
+{
+  "og": {
+    "basePath": "/media/rebel/New Volume/projects/doomsdayhuman/input/skull-r",
+    "layers": {
+      "Apparel": {
+        "name": "Apparel",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 20,
+        "options": {
+          "Business Casual Brown": {
+            "name": "Business Casual Brown",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Business Casual Brown.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938929,
+                "size": 59924
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Business Casual White": {
+            "name": "Business Casual White",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Business Casual White.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747937538,
+                "size": 74408
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Chocolaty": {
+            "name": "Cloak Chocolaty",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Chocolaty.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747936323,
+                "size": 47523
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Dark": {
+            "name": "Cloak Dark",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Dark.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938161,
+                "size": 48631
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Kaiju": {
+            "name": "Cloak Kaiju",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Kaiju.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747937476,
+                "size": 52344
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Orange": {
+            "name": "Cloak Orange",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Orange.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938911,
+                "size": 50846
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Pepe": {
+            "name": "Cloak Pepe",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Pepe.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747937274,
+                "size": 49241
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Purple": {
+            "name": "Cloak Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939000,
+                "size": 56350
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Red": {
+            "name": "Cloak Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747937703,
+                "size": 53363
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Voilet": {
+            "name": "Cloak Voilet",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Voilet.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938674,
+                "size": 46539
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak White": {
+            "name": "Cloak White",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak White.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938640,
+                "size": 56999
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Yellow": {
+            "name": "Cloak Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747937193,
+                "size": 51661
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Blue": {
+            "name": "Hoodie Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938375,
+                "size": 82713
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Fuchsia": {
+            "name": "Hoodie Fuchsia",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Fuchsia.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938684,
+                "size": 84295
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Orange": {
+            "name": "Hoodie Orange",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Orange.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939140,
+                "size": 74531
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Peach": {
+            "name": "Hoodie Peach",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Peach.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939035,
+                "size": 83150
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Pink": {
+            "name": "Hoodie Pink",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Pink.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939030,
+                "size": 83537
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Red": {
+            "name": "Hoodie Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939131,
+                "size": 77185
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Sky Blue": {
+            "name": "Hoodie Sky Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Sky Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939109,
+                "size": 81981
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Violet": {
+            "name": "Hoodie Violet",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Violet.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939038,
+                "size": 82947
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Yellow": {
+            "name": "Hoodie Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939123,
+                "size": 75110
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Blue Cherry blossom": {
+            "name": "Kimono Blue Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Blue Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938734,
+                "size": 95691
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Green Cherry blossom": {
+            "name": "Kimono Green Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Green Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939014,
+                "size": 93086
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Orange Cherry blossom": {
+            "name": "Kimono Orange Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Orange Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939161,
+                "size": 88440
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Pink Cherry blossom": {
+            "name": "Kimono Pink Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Pink Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938270,
+                "size": 99025
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Purple Cherry blossom": {
+            "name": "Kimono Purple Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Purple Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938994,
+                "size": 96150
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Red Cherry blossom": {
+            "name": "Kimono Red Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Red Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939134,
+                "size": 94273
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Teal Cherry blossom": {
+            "name": "Kimono Teal Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Teal Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939118,
+                "size": 94334
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Violet Cherry blossom": {
+            "name": "Kimono Violet Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Violet Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938884,
+                "size": 87351
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono White": {
+            "name": "Kimono White",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono White.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939114,
+                "size": 75876
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Yellow Cherry blossom": {
+            "name": "Kimono Yellow Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Yellow Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939091,
+                "size": 87217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Rick Labcoat": {
+            "name": "Rick Labcoat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Rick Labcoat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939165,
+                "size": 115476
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Cyan": {
+            "name": "Suit Cyan",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Cyan.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939131,
+                "size": 74638
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Orange": {
+            "name": "Suit Orange",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Orange.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938846,
+                "size": 66805
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Purple": {
+            "name": "Suit Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938755,
+                "size": 66596
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Red": {
+            "name": "Suit Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939174,
+                "size": 56136
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit White": {
+            "name": "Suit White",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit White.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938993,
+                "size": 72686
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Yellow": {
+            "name": "Suit Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938685,
+                "size": 67694
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Blue": {
+            "name": "Tee Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938891,
+                "size": 44562
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Cream": {
+            "name": "Tee Cream",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Cream.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939116,
+                "size": 45563
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Grey": {
+            "name": "Tee Grey",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Grey.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747937328,
+                "size": 22934
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Pink": {
+            "name": "Tee Pink",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Pink.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938891,
+                "size": 44969
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Purple": {
+            "name": "Tee Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747937713,
+                "size": 41657
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Red": {
+            "name": "Tee Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938985,
+                "size": 41521
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Tie Dye": {
+            "name": "Tee Tie Dye",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Tie Dye.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747939392,
+                "size": 241245
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Yellow": {
+            "name": "Tee Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721747938992,
+                "size": 38751
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      },
+      "Background": {
+        "name": "Background",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 0,
+        "options": {
+          "Aquamarine": {
+            "name": "Aquamarine",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Aquamarine.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748223782,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Army Green": {
+            "name": "Army Green",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Army Green.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748223871,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Blue": {
+            "name": "Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748224145,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Orange": {
+            "name": "Orange",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Orange.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748224018,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Punk Blue": {
+            "name": "Punk Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Punk Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748224218,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Purple": {
+            "name": "Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748224007,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Smoky": {
+            "name": "Smoky",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Smoky.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748224208,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Yellow": {
+            "name": "Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748224189,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      },
+      "Head": {
+        "name": "Head",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 40,
+        "options": {
+          "Beach Hat": {
+            "name": "Beach Hat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Beach Hat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255417,
+                "size": 34446
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Bomb Shell": {
+            "name": "Bomb Shell",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Bomb Shell.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255652,
+                "size": 40707
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Chainsaw Man Head": {
+            "name": "Chainsaw Man Head",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Chainsaw Man Head.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255909,
+                "size": 60814
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Chinese Strawhat": {
+            "name": "Chinese Strawhat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Chinese Strawhat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255772,
+                "size": 85393
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cowboy Hat": {
+            "name": "Cowboy Hat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Cowboy Hat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255849,
+                "size": 74615
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Crown": {
+            "name": "Crown",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Crown.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748254388,
+                "size": 51666
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Devil Horns": {
+            "name": "Devil Horns",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Devil Horns.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255812,
+                "size": 15705
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Fisherman Hat": {
+            "name": "Fisherman Hat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Fisherman Hat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255208,
+                "size": 30725
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Halo": {
+            "name": "Halo",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Halo.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255759,
+                "size": 18867
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Headphones": {
+            "name": "Headphones",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Headphones.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255628,
+                "size": 61478
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Human Love Ape Hat": {
+            "name": "Human Love Ape Hat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Human Love Ape Hat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255495,
+                "size": 37711
+              }
+            ],
+            "edgeCases": {}
+          },
+          "In Love": {
+            "name": "In Love",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/In Love.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255874,
+                "size": 58446
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kitsune Mask": {
+            "name": "Kitsune Mask",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Kitsune Mask.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255903,
+                "size": 35292
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Leaf Shinobi Band": {
+            "name": "Leaf Shinobi Band",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Leaf Shinobi Band.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255927,
+                "size": 50256
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Luffy Strawhat": {
+            "name": "Luffy Strawhat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Luffy Strawhat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255914,
+                "size": 40183
+              }
+            ],
+            "edgeCases": {}
+          },
+          "None": {
+            "name": "None",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/None.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748254033,
+                "size": 216
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Oni Mask": {
+            "name": "Oni Mask",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Oni Mask.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255934,
+                "size": 109937
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Pepe Head": {
+            "name": "Pepe Head",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Pepe Head.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255952,
+                "size": 85301
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Pizza Slice": {
+            "name": "Pizza Slice",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Pizza Slice.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255940,
+                "size": 37164
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Player System": {
+            "name": "Player System",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Player System.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255878,
+                "size": 101969
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Rebel Head Band": {
+            "name": "Rebel Head Band",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Rebel Head Band.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255923,
+                "size": 21849
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Rick hair": {
+            "name": "Rick hair",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Rick hair__z-20.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": -20,
+                "lastModifiedTime": 1721748255903,
+                "size": 71206
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Visor": {
+            "name": "Visor",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Visor.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748255861,
+                "size": 45248
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      },
+      "Prop": {
+        "name": "Prop",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 10,
+        "options": {
+          "Angel Wings": {
+            "name": "Angel Wings",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Angel Wings.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748289838,
+                "size": 94604
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Assisian Sward": {
+            "name": "Assisian Sward",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Assisian Sward.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748289860,
+                "size": 27704
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Devil Wings": {
+            "name": "Devil Wings",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Devil Wings.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748289901,
+                "size": 50645
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Fishing Rod": {
+            "name": "Fishing Rod",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Fishing Rod.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748290135,
+                "size": 43593
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Gun": {
+            "name": "Gun",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Gun.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748289825,
+                "size": 39622
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Katana": {
+            "name": "Katana",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Katana.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748289753,
+                "size": 22441
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Noble Sword": {
+            "name": "Noble Sword",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Noble Sword.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748290175,
+                "size": 39287
+              }
+            ],
+            "edgeCases": {}
+          },
+          "None": {
+            "name": "None",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/None.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748289043,
+                "size": 216
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Portal": {
+            "name": "Portal",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Portal.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748290321,
+                "size": 382812
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Skateboard Purple": {
+            "name": "Skateboard Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Skateboard Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748290272,
+                "size": 155413
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Skateboard Red": {
+            "name": "Skateboard Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Skateboard Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748290054,
+                "size": 116399
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Skatebord Black": {
+            "name": "Skatebord Black",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Skatebord Black.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748290227,
+                "size": 116943
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Spike Club": {
+            "name": "Spike Club",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Spike Club.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748290170,
+                "size": 40208
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Svyatogor Sword": {
+            "name": "Svyatogor Sword",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Svyatogor Sword.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748290099,
+                "size": 42336
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      },
+      "Skull": {
+        "name": "Skull",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 30,
+        "options": {
+          "Bone 3rd Eye": {
+            "name": "Bone 3rd Eye",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Skull__z30/Bone 3rd Eye.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748336117,
+                "size": 120273
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Bone": {
+            "name": "Bone",
+            "weight": 10,
+            "assets": [
+              {
+                "path": "Skull__z30/Bone__w10.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748335998,
+                "size": 116470
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Golden 3rd Eye": {
+            "name": "Golden 3rd Eye",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Skull__z30/Golden 3rd Eye__w1.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748336174,
+                "size": 176598
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Golden": {
+            "name": "Golden",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Skull__z30/Golden__w1.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748336179,
+                "size": 172728
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Silver 3rd Eye": {
+            "name": "Silver 3rd Eye",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Skull__z30/Silver 3rd Eye.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748336141,
+                "size": 159899
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Silver": {
+            "name": "Silver",
+            "weight": 3,
+            "assets": [
+              {
+                "path": "Skull__z30/Silver__w3.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748336086,
+                "size": 156582
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      }
+    }
+  },
+  "half": {
+    "basePath": "/media/rebel/New Volume/projects/doomsdayhuman/input/HalfSkull-r",
+    "layers": {
+      "Apparel": {
+        "name": "Apparel",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 20,
+        "options": {
+          "Business Casual Brown": {
+            "name": "Business Casual Brown",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Business Casual Brown.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624731,
+                "size": 59924
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Business Casual White": {
+            "name": "Business Casual White",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Business Casual White.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624752,
+                "size": 74408
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Chocolaty": {
+            "name": "Cloak Chocolaty",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Chocolaty.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624631,
+                "size": 47523
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Dark": {
+            "name": "Cloak Dark",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Dark.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624782,
+                "size": 48631
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Kaiju": {
+            "name": "Cloak Kaiju",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Kaiju.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624637,
+                "size": 52344
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Orange": {
+            "name": "Cloak Orange",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Orange.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624829,
+                "size": 50846
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Pepe": {
+            "name": "Cloak Pepe",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Pepe.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624702,
+                "size": 49241
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Purple": {
+            "name": "Cloak Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624062,
+                "size": 56350
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Red": {
+            "name": "Cloak Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624859,
+                "size": 53363
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Voilet": {
+            "name": "Cloak Voilet",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Voilet.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624721,
+                "size": 46539
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak White": {
+            "name": "Cloak White",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak White.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624879,
+                "size": 56999
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Yellow": {
+            "name": "Cloak Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624666,
+                "size": 51661
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Blue": {
+            "name": "Hoodie Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748623323,
+                "size": 82713
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Fuchsia": {
+            "name": "Hoodie Fuchsia",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Fuchsia.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624616,
+                "size": 84295
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Orange": {
+            "name": "Hoodie Orange",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Orange.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624690,
+                "size": 74531
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Peach": {
+            "name": "Hoodie Peach",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Peach.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624799,
+                "size": 83150
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Pink": {
+            "name": "Hoodie Pink",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Pink.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624879,
+                "size": 83537
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Red": {
+            "name": "Hoodie Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624912,
+                "size": 77185
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Sky Blue": {
+            "name": "Hoodie Sky Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Sky Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624697,
+                "size": 81981
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Violet": {
+            "name": "Hoodie Violet",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Violet.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624847,
+                "size": 82947
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Yellow": {
+            "name": "Hoodie Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624820,
+                "size": 75110
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Blue Cherry blossom": {
+            "name": "Kimono Blue Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Blue Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624456,
+                "size": 95691
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Green Cherry blossom": {
+            "name": "Kimono Green Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Green Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624750,
+                "size": 93086
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Orange Cherry blossom": {
+            "name": "Kimono Orange Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Orange Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624947,
+                "size": 88440
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Pink Cherry blossom": {
+            "name": "Kimono Pink Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Pink Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624895,
+                "size": 99025
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Purple Cherry blossom": {
+            "name": "Kimono Purple Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Purple Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624770,
+                "size": 96150
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Red Cherry blossom": {
+            "name": "Kimono Red Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Red Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624947,
+                "size": 94273
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Teal Cherry blossom": {
+            "name": "Kimono Teal Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Teal Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624968,
+                "size": 94334
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Violet Cherry blossom": {
+            "name": "Kimono Violet Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Violet Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624876,
+                "size": 87351
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono White": {
+            "name": "Kimono White",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono White.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624629,
+                "size": 75876
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Yellow Cherry blossom": {
+            "name": "Kimono Yellow Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Yellow Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624920,
+                "size": 87217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Rick Labcoat": {
+            "name": "Rick Labcoat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Rick Labcoat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748625023,
+                "size": 115476
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Cyan": {
+            "name": "Suit Cyan",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Cyan.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624973,
+                "size": 74638
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Orange": {
+            "name": "Suit Orange",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Orange.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624755,
+                "size": 66805
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Purple": {
+            "name": "Suit Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624996,
+                "size": 66596
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Red": {
+            "name": "Suit Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624888,
+                "size": 56136
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit White": {
+            "name": "Suit White",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit White.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624881,
+                "size": 72686
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Yellow": {
+            "name": "Suit Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624953,
+                "size": 67694
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Blue": {
+            "name": "Tee Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624790,
+                "size": 44562
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Cream": {
+            "name": "Tee Cream",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Cream.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624819,
+                "size": 45563
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Grey": {
+            "name": "Tee Grey",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Grey.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624384,
+                "size": 22934
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Pink": {
+            "name": "Tee Pink",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Pink.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624718,
+                "size": 44969
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Purple": {
+            "name": "Tee Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624603,
+                "size": 41657
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Red": {
+            "name": "Tee Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624715,
+                "size": 41521
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Tie Dye": {
+            "name": "Tee Tie Dye",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Tie Dye.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748625106,
+                "size": 241245
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Yellow": {
+            "name": "Tee Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748624553,
+                "size": 38751
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      },
+      "Background": {
+        "name": "Background",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 0,
+        "options": {
+          "Aquamarine": {
+            "name": "Aquamarine",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Aquamarine.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748661664,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Army Green": {
+            "name": "Army Green",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Army Green.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748661664,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Blue": {
+            "name": "Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748661768,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Orange": {
+            "name": "Orange",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Orange.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748661616,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Punk Blue": {
+            "name": "Punk Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Punk Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748661586,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Purple": {
+            "name": "Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748661653,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Smoky": {
+            "name": "Smoky",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Smoky.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748661796,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Yellow": {
+            "name": "Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748661715,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      },
+      "Head": {
+        "name": "Head",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 40,
+        "options": {
+          "Brain": {
+            "name": "Brain",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Brain.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748718821,
+                "size": 31184
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cactus Plant": {
+            "name": "Cactus Plant",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Cactus Plant.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748718924,
+                "size": 39172
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Coffee Cup": {
+            "name": "Coffee Cup",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Coffee Cup.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748718853,
+                "size": 31844
+              }
+            ],
+            "edgeCases": {
+              "Skull#Golden Half": {
+                "matchingTrait": "Skull",
+                "matchingValue": "Golden Half",
+                "assets": [
+                  {
+                    "path": "Head__z40/edge-cases/Coffee Cup__tSkull__vGolden Half.png",
+                    "relativeXOffset": 0,
+                    "relativeYOffset": 0,
+                    "relativeZOffset": 0,
+                    "lastModifiedTime": 1721748783039,
+                    "size": 35951
+                  }
+                ]
+              },
+              "Skull#Silver Half": {
+                "matchingTrait": "Skull",
+                "matchingValue": "Silver Half",
+                "assets": [
+                  {
+                    "path": "Head__z40/edge-cases/Coffee Cup__tSkull__vSilver Half.png",
+                    "relativeXOffset": 0,
+                    "relativeYOffset": 0,
+                    "relativeZOffset": 0,
+                    "lastModifiedTime": 1721748783101,
+                    "size": 36115
+                  }
+                ]
+              }
+            }
+          },
+          "Small Plant": {
+            "name": "Small Plant",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Small Plant.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748718827,
+                "size": 30273
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      },
+      "Prop": {
+        "name": "Prop",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 10,
+        "options": {
+          "Angel Wings": {
+            "name": "Angel Wings",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Angel Wings.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748825764,
+                "size": 94604
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Assisian Sward": {
+            "name": "Assisian Sward",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Assisian Sward.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748825618,
+                "size": 27704
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Devil Wings": {
+            "name": "Devil Wings",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Devil Wings.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748825693,
+                "size": 50645
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Fishing Rod": {
+            "name": "Fishing Rod",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Fishing Rod.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748825700,
+                "size": 43593
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Gun": {
+            "name": "Gun",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Gun.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748825721,
+                "size": 39622
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Katana": {
+            "name": "Katana",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Katana.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748824992,
+                "size": 22441
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Noble Sword": {
+            "name": "Noble Sword",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Noble Sword.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748825730,
+                "size": 39287
+              }
+            ],
+            "edgeCases": {}
+          },
+          "None": {
+            "name": "None",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/None.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748824501,
+                "size": 216
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Portal": {
+            "name": "Portal",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Portal.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748826084,
+                "size": 382812
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Skateboard Purple": {
+            "name": "Skateboard Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Skateboard Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748825824,
+                "size": 155413
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Skateboard Red": {
+            "name": "Skateboard Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Skateboard Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748825708,
+                "size": 116399
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Skatebord Black": {
+            "name": "Skatebord Black",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Skatebord Black.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748825821,
+                "size": 116943
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Spike Club": {
+            "name": "Spike Club",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Spike Club.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748825681,
+                "size": 40208
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Svyatogor Sword": {
+            "name": "Svyatogor Sword",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Svyatogor Sword.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748825694,
+                "size": 42336
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      },
+      "Skull": {
+        "name": "Skull",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 30,
+        "options": {
+          "Bone Half": {
+            "name": "Bone Half",
+            "weight": 10,
+            "assets": [
+              {
+                "path": "Skull__z30/Bone Half__w10.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748568305,
+                "size": 121115
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Golden Half": {
+            "name": "Golden Half",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Skull__z30/Golden Half__w1.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748568382,
+                "size": 172859
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Silver Half": {
+            "name": "Silver Half",
+            "weight": 3,
+            "assets": [
+              {
+                "path": "Skull__z30/Silver Half__w3.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748568220,
+                "size": 156961
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      }
+    }
+  },
+  "frank": {
+    "basePath": "/media/rebel/New Volume/projects/doomsdayhuman/input/Frank-r",
+    "layers": {
+      "Apparel": {
+        "name": "Apparel",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 20,
+        "options": {
+          "Business Casual Brown": {
+            "name": "Business Casual Brown",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Business Casual Brown.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748929661,
+                "size": 59924
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Business Casual White": {
+            "name": "Business Casual White",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Business Casual White.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930361,
+                "size": 74408
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Chocolaty": {
+            "name": "Cloak Chocolaty",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Chocolaty.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930366,
+                "size": 47523
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Dark": {
+            "name": "Cloak Dark",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Dark.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930378,
+                "size": 48631
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Kaiju": {
+            "name": "Cloak Kaiju",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Kaiju.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930408,
+                "size": 52344
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Orange": {
+            "name": "Cloak Orange",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Orange.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930267,
+                "size": 50846
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Pepe": {
+            "name": "Cloak Pepe",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Pepe.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930389,
+                "size": 49241
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Purple": {
+            "name": "Cloak Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930054,
+                "size": 56350
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Red": {
+            "name": "Cloak Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930338,
+                "size": 53363
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Voilet": {
+            "name": "Cloak Voilet",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Voilet.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930069,
+                "size": 46539
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak White": {
+            "name": "Cloak White",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak White.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930191,
+                "size": 56999
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cloak Yellow": {
+            "name": "Cloak Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Cloak Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930215,
+                "size": 51661
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Blue": {
+            "name": "Hoodie Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930266,
+                "size": 82713
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Fuchsia": {
+            "name": "Hoodie Fuchsia",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Fuchsia.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930338,
+                "size": 84295
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Orange": {
+            "name": "Hoodie Orange",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Orange.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930349,
+                "size": 74531
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Peach": {
+            "name": "Hoodie Peach",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Peach.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930242,
+                "size": 83150
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Pink": {
+            "name": "Hoodie Pink",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Pink.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930094,
+                "size": 83537
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Red": {
+            "name": "Hoodie Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930332,
+                "size": 77185
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Sky Blue": {
+            "name": "Hoodie Sky Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Sky Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930183,
+                "size": 81981
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Violet": {
+            "name": "Hoodie Violet",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Violet.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930245,
+                "size": 82947
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Hoodie Yellow": {
+            "name": "Hoodie Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Hoodie Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930215,
+                "size": 75110
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Blue Cherry blossom": {
+            "name": "Kimono Blue Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Blue Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930237,
+                "size": 95691
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Green Cherry blossom": {
+            "name": "Kimono Green Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Green Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930271,
+                "size": 93086
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Orange Cherry blossom": {
+            "name": "Kimono Orange Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Orange Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930276,
+                "size": 88440
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Pink Cherry blossom": {
+            "name": "Kimono Pink Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Pink Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930393,
+                "size": 99025
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Purple Cherry blossom": {
+            "name": "Kimono Purple Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Purple Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930373,
+                "size": 96150
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Red Cherry blossom": {
+            "name": "Kimono Red Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Red Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930033,
+                "size": 94273
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Teal Cherry blossom": {
+            "name": "Kimono Teal Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Teal Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930398,
+                "size": 94334
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Violet Cherry blossom": {
+            "name": "Kimono Violet Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Violet Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930195,
+                "size": 87351
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono White": {
+            "name": "Kimono White",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono White.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930127,
+                "size": 75876
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kimono Yellow Cherry blossom": {
+            "name": "Kimono Yellow Cherry blossom",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Kimono Yellow Cherry blossom.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930345,
+                "size": 87217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Rick Labcoat": {
+            "name": "Rick Labcoat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Rick Labcoat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930468,
+                "size": 115476
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Cyan": {
+            "name": "Suit Cyan",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Cyan.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930231,
+                "size": 74638
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Orange": {
+            "name": "Suit Orange",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Orange.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930386,
+                "size": 66805
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Purple": {
+            "name": "Suit Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930113,
+                "size": 66596
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Red": {
+            "name": "Suit Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930424,
+                "size": 56136
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit White": {
+            "name": "Suit White",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit White.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930397,
+                "size": 72686
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Suit Yellow": {
+            "name": "Suit Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Suit Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930195,
+                "size": 67694
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Blue": {
+            "name": "Tee Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930312,
+                "size": 44562
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Cream": {
+            "name": "Tee Cream",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Cream.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748929967,
+                "size": 45563
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Grey": {
+            "name": "Tee Grey",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Grey.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930253,
+                "size": 22934
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Pink": {
+            "name": "Tee Pink",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Pink.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930044,
+                "size": 44969
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Purple": {
+            "name": "Tee Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930262,
+                "size": 41657
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Red": {
+            "name": "Tee Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930181,
+                "size": 41521
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Tie Dye": {
+            "name": "Tee Tie Dye",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Tie Dye.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930572,
+                "size": 241245
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Tee Yellow": {
+            "name": "Tee Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Apparel__z20/Tee Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748930402,
+                "size": 38751
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      },
+      "Background": {
+        "name": "Background",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 0,
+        "options": {
+          "Aquamarine": {
+            "name": "Aquamarine",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Aquamarine.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749032415,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Army Green": {
+            "name": "Army Green",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Army Green.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749032557,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Blue": {
+            "name": "Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749032642,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Orange": {
+            "name": "Orange",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Orange.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749032700,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Punk Blue": {
+            "name": "Punk Blue",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Punk Blue.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749032736,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Purple": {
+            "name": "Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749032700,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Smoky": {
+            "name": "Smoky",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Smoky.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749032687,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Yellow": {
+            "name": "Yellow",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Background/Yellow.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749032691,
+                "size": 217
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      },
+      "Head": {
+        "name": "Head",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 40,
+        "options": {
+          "Beach Hat": {
+            "name": "Beach Hat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Beach Hat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749061867,
+                "size": 34612
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Bomb Shell": {
+            "name": "Bomb Shell",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Bomb Shell.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749061961,
+                "size": 40277
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Chinese Strawhat": {
+            "name": "Chinese Strawhat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Chinese Strawhat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749061901,
+                "size": 85011
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Cowboy Hat": {
+            "name": "Cowboy Hat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Cowboy Hat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749061937,
+                "size": 73818
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Devil Horns": {
+            "name": "Devil Horns",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Devil Horns.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749061865,
+                "size": 16146
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Fisherman Hat": {
+            "name": "Fisherman Hat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Fisherman Hat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749062062,
+                "size": 29161
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Halo": {
+            "name": "Halo",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Halo.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749061941,
+                "size": 18977
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Human Love Ape Hat": {
+            "name": "Human Love Ape Hat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Human Love Ape Hat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749062033,
+                "size": 37391
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Kitsune Mask": {
+            "name": "Kitsune Mask",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Kitsune Mask.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749062056,
+                "size": 36016
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Leaf Shinobi Band": {
+            "name": "Leaf Shinobi Band",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Leaf Shinobi Band.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749062072,
+                "size": 52961
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Luffy Strawhat": {
+            "name": "Luffy Strawhat",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Luffy Strawhat.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749062002,
+                "size": 42664
+              }
+            ],
+            "edgeCases": {}
+          },
+          "None": {
+            "name": "None",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/None.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749060491,
+                "size": 216
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Oni Mask": {
+            "name": "Oni Mask",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Oni Mask.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749062184,
+                "size": 113715
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Pepe Head": {
+            "name": "Pepe Head",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Pepe Head.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749062185,
+                "size": 87852
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Pizza Slice": {
+            "name": "Pizza Slice",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Pizza Slice.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749062088,
+                "size": 36412
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Player System": {
+            "name": "Player System",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Player System.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749062084,
+                "size": 125399
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Rebel Head Band": {
+            "name": "Rebel Head Band",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Rebel Head Band.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749061789,
+                "size": 18358
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Visor": {
+            "name": "Visor",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Head__z40/Visor.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749062035,
+                "size": 48393
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      },
+      "Prop": {
+        "name": "Prop",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 10,
+        "options": {
+          "Angel Wings": {
+            "name": "Angel Wings",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Angel Wings.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748868479,
+                "size": 94604
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Assisian Sward": {
+            "name": "Assisian Sward",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Assisian Sward.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748868892,
+                "size": 27704
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Devil Wings": {
+            "name": "Devil Wings",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Devil Wings.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748868759,
+                "size": 50645
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Fishing Rod": {
+            "name": "Fishing Rod",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Fishing Rod.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748869038,
+                "size": 43593
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Gun": {
+            "name": "Gun",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Gun.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748868889,
+                "size": 39622
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Katana": {
+            "name": "Katana",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Katana.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748868894,
+                "size": 22441
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Noble Sword": {
+            "name": "Noble Sword",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Noble Sword.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748869006,
+                "size": 39287
+              }
+            ],
+            "edgeCases": {}
+          },
+          "None": {
+            "name": "None",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/None.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748867733,
+                "size": 216
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Portal": {
+            "name": "Portal",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Portal.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748869251,
+                "size": 382812
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Skateboard Purple": {
+            "name": "Skateboard Purple",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Skateboard Purple.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748868710,
+                "size": 155413
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Skateboard Red": {
+            "name": "Skateboard Red",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Skateboard Red.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748869037,
+                "size": 116399
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Skatebord Black": {
+            "name": "Skatebord Black",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Skatebord Black.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748869034,
+                "size": 116943
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Spike Club": {
+            "name": "Spike Club",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Spike Club.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748868777,
+                "size": 40208
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Svyatogor Sword": {
+            "name": "Svyatogor Sword",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Prop__z10/Svyatogor Sword.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721748868636,
+                "size": 42336
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      },
+      "Skull": {
+        "name": "Skull",
+        "baseXOffset": 0,
+        "baseYOffset": 0,
+        "baseZOffset": 30,
+        "options": {
+          "Bone Frank": {
+            "name": "Bone Frank",
+            "weight": 10,
+            "assets": [
+              {
+                "path": "Skull__z30/Bone Frank__w10.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749104320,
+                "size": 79162
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Golden Frank": {
+            "name": "Golden Frank",
+            "weight": 1,
+            "assets": [
+              {
+                "path": "Skull__z30/Golden Frank__w1.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749104376,
+                "size": 247098
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Silver Frank": {
+            "name": "Silver Frank",
+            "weight": 3,
+            "assets": [
+              {
+                "path": "Skull__z30/Silver Frank__w3.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1721749104323,
+                "size": 215041
+              }
+            ],
+            "edgeCases": {}
+          }
+        }
+      }
+    }
+  }
+}
